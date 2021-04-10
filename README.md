@@ -10,4 +10,5 @@
    rank 1 and 2. 9 points cover rank 1,2,3. hand 2+8 cover rank 1 to 4; hand 1+1 cover 11 ranks, from rank 1 to 11.
    So on and so fforth, hand 9+9 cover 19 ranks, hand 10+10 cover 20 ranks.
 6. You can use this game for gambling, also you can use it for fun.
-7. The author of this game is Xu Yang. All rights researved. You can not spread this game without the permission of author. 
+7. Please run gui_2_8.py to get a GUI then hit deal card button to deal cards for four players.
+8. The author of this game is Xu Yang. All rights researved. You can not spread this game without the permission of author. 
