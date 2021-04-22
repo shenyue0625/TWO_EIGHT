@@ -12,3 +12,22 @@
 6. You can use this game for gambling, also you can use it for fun.
 7. Please run gui_2_8.py to get a GUI then hit deal card button to deal cards for four players.
 8. The author of this game is Xu Yang. All rights researved. You can not spread this game without the permission of author. 
+
+
+--User Stories:
+
+1. As a player, I want to test how lucky I am by play a game.
+2. As a player, I want to change my player identity between player and dealer.
+3. As a player, I want the system can simulate the a square game table.
+4. As a player, I want the system to distribute one player's cards on one side of the table.
+5. As a player, I want to get two cards at one round.
+6. As a player, I want to bet on my stake.
+7. As a player, I want to bet any number of ranks that I want.
+8. As a player, I want to compare my cards counts with dealer.
+9. As a player, I want the system to show all players' cards when we compare counts.
+10. As a player, I want the system can determine whether I win the game.
+11. As a player, I want the system to calculate how many stake that I win or loose.
+12. As a player, I want the system to calculate which player win the most bet.
+13. As a player, I want the system to calculate which player loose the most bet.
+14. As a player, I want the system to collect all dealt cards after the game ends.
+15. As a player, I want the system to shuffle all cards before the next round starts.
