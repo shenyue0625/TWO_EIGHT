@@ -32,7 +32,7 @@ This repository contains 6 python files, 40 card pictures and 1 readme file. You
 
 
 ----Program operation:  (Describe what I need to do to run the program)
-
+Please clone this repository and start your python IDE. Then run gui_2_8.py to get a GUI then hit deal card button to deal cards for four players.
 
 
 
